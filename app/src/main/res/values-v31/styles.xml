@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.ThunderStack" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:navigationBarColor">#06142E</item>
+        <item name="android:statusBarColor">#06142E</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#55E7FF</item>
+        <item name="android:windowSplashScreenBackground">#06142E</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_coin</item>
+    </style>
+</resources>
